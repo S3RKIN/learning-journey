@@ -4,4 +4,6 @@ I installed:
     2. Git
     3. Node JS
 Now I make first commit to github.
-First steps feels great!s
+First steps feels great!
+
+Some changes
